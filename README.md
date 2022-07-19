@@ -7,7 +7,7 @@ Pruebas framework spring
 Clonamos el repositorio con la siguiente instrucción en consola:
 
 ```
-git clone 
+git clone https://github.com/ronis97/ultimotallerarsw.git
 ```
 
 
@@ -19,42 +19,6 @@ Necesitamos de:
 
 Para una correcta ejecucion del aplicativo.
 
-### Instalacion
-
-Ejecutamos la siguiente instruccion en consola:
-
-```
-mvn package
-```
-
-con esto maven se encargara de descargar todos los recursos necesarios para la ejecucion del aplicativo.
-
-Para ejecutar el programa simplemente corremos la instrucción:
-
-```
-mvn spring-boot:run
-```
-
-En el navegador entramos con la dirección:
-
-```
-http://127.0.0.1:8080
-```
-
-![](https://github.com/ronis97/arswt6/blob/main/resources/Captura.JPG)
-
-
-### Ejecucion
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://interactive-whiteboard01.herokuapp.com)
-
-
-
-### Diagrama de clases
-
-El diagrama completo se puede encontrar en el archivo `tallerArsw6.asta` 
-
-![](https://github.com/ronis97/arswt6/blob/main/resources/diagramaclases.png)
 
 
 

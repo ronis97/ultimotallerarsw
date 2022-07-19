@@ -19,7 +19,13 @@ Necesitamos de:
 
 Para una correcta ejecucion del aplicativo.
 
+### Ejecucion
 
+Cargamos las pruebas con la siguiente instruccion:
+
+```
+mvn test
+```
 
 
 
